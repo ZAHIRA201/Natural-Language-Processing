@@ -52,6 +52,7 @@ Part-of-Speech Tagging System:
 [a]	DET|ART|IND|MASC|SING
 [large]	ADJ|ATTR|MASC|SING
 [language]	NOM|COMM|MASC|SING|ABS
+.	PONCT
 
 Sentence Prediction:
 > Input words: cat, mouse, cheese
