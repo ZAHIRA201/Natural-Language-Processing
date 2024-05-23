@@ -47,12 +47,12 @@ Example Usage:
 Part-of-Speech Tagging System:
 > I am a large language model.
 >
-[I]	PRON-IND|NOM|MASC|SING|ABS
-[am]	VERB|AUX|PRES|IND|1SG
-[a]	DET|ART|IND|MASC|SING
-[large]	ADJ|ATTR|MASC|SING
-[language]	NOM|COMM|MASC|SING|ABS
-.	PONCT
+> * [I]	PRON-IND|NOM|MASC|SING|ABS
+> * [am]	VERB|AUX|PRES|IND|1SG
+> * [a]	DET|ART|IND|MASC|SING
+> * [large]	ADJ|ATTR|MASC|SING
+> * [language]	NOM|COMM|MASC|SING|ABS
+> * .	PONCT
 
 Sentence Prediction:
 > Input words: cat, mouse, cheese
