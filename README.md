@@ -38,10 +38,6 @@ The tools in this project can be installed from GitHub.
 
 You are welcome to contribute to this project by submitting pull requests on GitHub.
 
-License:
-
-This project is licensed under the MIT License.
-
 Contact:
 
 For any questions or comments, please contact me on my LinkedIn [https://www.linkedin.com/in/chakir-fatima-ez-zahra/].
