@@ -4,11 +4,14 @@
 
 This project brings together three distinct tools in the field of natural language processing (NLP):
 
-# Part-of-Speech Tagging System: This tool allows you to tag the words in a text with their grammatical category (noun, verb, adjective, etc.) and their morphological characteristics (number, gender, tense, etc.).
+# Part-of-Speech Tagging System:
+This tool allows you to tag the words in a text with their grammatical category (noun, verb, adjective, etc.) and their morphological characteristics (number, gender, tense, etc.).
 
-# Sentence Prediction: This tool allows you to generate complete and grammatically correct sentences from a set of words or an incomplete sentence.
+# Sentence Prediction:
+This tool allows you to generate complete and grammatically correct sentences from a set of words or an incomplete sentence.
 
-# Automatic Text Generation, Completion, and Correction: This tool allows you to automatically generate text, complete incomplete sentences, and correct grammatical errors.
+# Automatic Text Generation, Completion, and Correction:
+This tool allows you to automatically generate text, complete incomplete sentences, and correct grammatical errors.
 
 ## Features:
 
@@ -41,7 +44,7 @@ This project is licensed under the MIT License.
 
 Contact:
 
-For any questions or comments, please contact [https://www.linkedin.com/in/chakir-fatima-ez-zahra/].
+For any questions or comments, please contact me on my LinkedIn [https://www.linkedin.com/in/chakir-fatima-ez-zahra/].
 
 Example Usage:
 
