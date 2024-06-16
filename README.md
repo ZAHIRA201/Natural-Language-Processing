@@ -1,4 +1,4 @@
-## Part-of-Speech Tagging, Sentence Prediction, and Automatic Text Generation System
+# Part-of-Speech Tagging, Sentence Prediction, and Automatic Text Generation System
 
 # Description:
 
