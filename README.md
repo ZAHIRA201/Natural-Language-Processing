@@ -1,16 +1,16 @@
 # Part-of-Speech Tagging, Sentence Prediction, and Automatic Text Generation System
 
-# Description:
+## Description:
 
 This project brings together three distinct tools in the field of natural language processing (NLP):
 
-# Part-of-Speech Tagging System:
+## Part-of-Speech Tagging System:
 This tool allows you to tag the words in a text with their grammatical category (noun, verb, adjective, etc.) and their morphological characteristics (number, gender, tense, etc.).
 
-# Sentence Prediction:
+## Sentence Prediction:
 This tool allows you to generate complete and grammatically correct sentences from a set of words or an incomplete sentence.
 
-# Automatic Text Generation, Completion, and Correction:
+## Automatic Text Generation, Completion, and Correction:
 This tool allows you to automatically generate text, complete incomplete sentences, and correct grammatical errors.
 
 ## Features:
@@ -21,7 +21,7 @@ High-quality automatic text generation
 Intelligent sentence completion
 Effective grammar error correction
 
-# Applications:
+## Applications:
 
 Linguistic analysis
 Machine translation
@@ -30,19 +30,19 @@ Text correction
 Chatbots
 Virtual assistants
 
-# Installation:
+## Installation:
 
 The tools in this project can be installed from GitHub.
 
-# Contribution:
+## Contribution:
 
 You are welcome to contribute to this project by submitting pull requests on GitHub.
 
-Contact:
+- Contact:
 
 For any questions or comments, please contact me on my LinkedIn [https://www.linkedin.com/in/chakir-fatima-ez-zahra/].
 
-Example Usage:
+- Example Usage:
 
 Part-of-Speech Tagging System:
 > I am a large language model.
